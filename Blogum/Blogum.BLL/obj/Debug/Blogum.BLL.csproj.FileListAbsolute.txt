@@ -1,0 +1,13 @@
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\Blogum.BLL.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\Blogum.BLL.pdb
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\obj\Debug\Blogum.BLL.csprojResolveAssemblyReference.cache
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\obj\Debug\Blogum.BLL.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\obj\Debug\Blogum.BLL.pdb
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\Blogum.BLL.dll.config
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\Blogum.DAL.dll
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\Blogum.DAL.pdb
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\Blogum.DAL.dll.config
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.BLL\bin\Debug\EntityFramework.SqlServer.xml

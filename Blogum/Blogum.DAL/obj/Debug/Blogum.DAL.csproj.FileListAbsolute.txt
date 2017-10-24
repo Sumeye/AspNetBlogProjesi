@@ -1,0 +1,10 @@
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\Blogum.DAL.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\Blogum.DAL.pdb
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\obj\Debug\Blogum.DAL.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\obj\Debug\Blogum.DAL.pdb
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\Blogum.DAL.dll.config
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\EntityFramework.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\EntityFramework.xml
+c:\users\sumeyye\documents\visual studio 2017\Projects\Blogum\Blogum.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sumeyye\Documents\Visual Studio 2017\Projects\Blogum\Blogum.DAL\obj\Debug\Blogum.DAL.csprojResolveAssemblyReference.cache
